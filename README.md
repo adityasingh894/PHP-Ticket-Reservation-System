@@ -1,7 +1,7 @@
 # PHP-Ticket-Reservation-System
 
 A Ticket Reservations System witrh QR code integration which is developed using HTML, CSS JavaScript and PHP/MySQL Server.
-It has the following features: 
+It has the following prerequisite features: 
 
 # DASHBOARD
 Page where the number of Events, Seats and Tickets to sold are listed
